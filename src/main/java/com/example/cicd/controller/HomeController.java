@@ -9,8 +9,6 @@ public class HomeController {
     public String home() {
         return "home";
     }
-
-
 }
 
 // 젠킨스 test
