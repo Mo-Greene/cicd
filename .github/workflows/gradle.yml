@@ -12,9 +12,6 @@ on:
     branches: 
       - master
 
-permissions:
-  contents: read
-
 jobs:
   build:
 
